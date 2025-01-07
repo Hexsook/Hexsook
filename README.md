@@ -1,6 +1,10 @@
 ## Hi there 👋 Welcome to my personal page.
 
-[img]https://imgur.com/1qjunIA.png[/img]
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="650" />
+  <img src="https://imgur.com/1qjunIA.png" width="500" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="650" />
+</div>
 
 <p align="center">
   <a href="https://github.com/Hexsook">
