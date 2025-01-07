@@ -1,4 +1,6 @@
-## Hi there 👋 Welcome to my personal statstics page.
+## Hi there 👋 Welcome to my personal page.
+
+[img]https://imgur.com/1qjunIA.png[/img]
 
 <p align="center">
   <a href="https://github.com/Hexsook">
